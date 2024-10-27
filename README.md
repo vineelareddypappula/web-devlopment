@@ -1,1 +1,1 @@
-file:///C:/Users/Vineela/OneDrive/Documents/GitHub/web-devlopment/task2.html#about - landing page
+file:///C:/Users/Vineela/OneDrive/Documents/GitHub/web-devlopment/task2.html#about 
